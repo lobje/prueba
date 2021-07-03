@@ -104,6 +104,8 @@
 > es un grupo de declaraciones PL / SQL al que puede llamar por su nombre y puede o no tener parametros. El Stored Procedure puede tener almacenado un conjunto de sentecias de sql para manipular la Base de datos. [mas informacion.](https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_6009.htm)
 
 
+## Herramientas usada para el desarrollo de este proyecto ademas las vesiones usadas.
+
 ### [Versio de oracle instalada](https://drive.google.com/file/d/1N97qdpXuRVQkDuK-chbjdxk36KmldAhN/view?usp=sharing)
 
 ### [Version de angular instalada](https://drive.google.com/file/d/18DHE6NqfYa6FfPP6SGt5NreXLKNnWSQh/view?usp=sharing)
