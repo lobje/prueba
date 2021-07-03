@@ -1,7 +1,7 @@
 # Manejo e Implementacion de Archivo 
 ## Proyecto 2   201314059
 
-Se inicia con la [instalacion de docker](https://linuxhint.com/install_configure_docker_ubuntu/)
+ >Se inicia con la [instalacion de docker](https://linuxhint.com/install_configure_docker_ubuntu/)
  #
  >Descargar la imagen, tardara algo de tiempo 
  
@@ -37,21 +37,18 @@ Se inicia con la [instalacion de docker](https://linuxhint.com/install_configure
  
 #
  
-Lo siguiente sera la [instalacion sql oracle developer](https://www.sismonda.com.ar/1193-2020-11-09-sql-developer-en-ubuntu-20-04/)
+>Lo siguiente sera la [instalacion sql oracle developer](https://www.sismonda.com.ar/1193-2020-11-09-sql-developer-en-ubuntu-20-04/)
  
  
 #
 
 >Cuando el contenedor ya esta corriendo los datos nuevo_usuario y nueva_contraseña que fueron los definidos anteriormente se usaran para conectar
 
-<< En consola >>
-
     connected
     nuevo_usuario
     nueva_contraseña
 
 #
-<< En SQL Developer >>
 
 >En mi caso el nombre de usuario y contraseña fueron los que defini arriba
 
@@ -61,3 +58,8 @@ Lo siguiente sera la [instalacion sql oracle developer](https://www.sismonda.com
 - Nombre host: localhost
 - Puerto: 1521
 - Nombre del servicio: ORCL18
+
+# Modelo-Vista-Controlador
+> Fue implemetado en el proyecto
+
+![Modelo entidad relacion](https://drive.google.com/file/d/1xRNeSnZx5EV0IobMmrqyBDilnm2SJ0RG/view?usp=sharing)
