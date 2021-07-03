@@ -1,8 +1,7 @@
 # Manejo e Implementacion de Archivo 
 ## Proyecto 2   201314059
-<<<<<<<<<<< INSTALACION DE DOCKER >>>>>>>>>>
-    
-https://linuxhint.com/install_configure_docker_ubuntu/
+
+Se inicia con la [instalacion de docker](https://linuxhint.com/install_configure_docker_ubuntu/)
  #
  >Descargar la imagen, tardara algo de tiempo 
  
@@ -29,7 +28,6 @@ https://linuxhint.com/install_configure_docker_ubuntu/
     grant dba to nuevo_usuario;
  
 #
-<<<<<<<<<< CORRERLO >>>>>>>>>>
 
 >Cuando el contenedor esta apagado se corre el primer comando
 
@@ -38,13 +36,11 @@ https://linuxhint.com/install_configure_docker_ubuntu/
     sh post_install.sh
  
 #
-<<<<<<<<<< instalacion sql oracle developer >>>>>>>>>>
-
-https://www.sismonda.com.ar/1193-2020-11-09-sql-developer-en-ubuntu-20-04/
+ 
+Lo siguiente sera la [instalacion sql oracle developer](https://www.sismonda.com.ar/1193-2020-11-09-sql-developer-en-ubuntu-20-04/)
  
  
 #
-<<<<<<<<<< Connectar con SQL Developer >>>>>>>>>>
 
 >Cuando el contenedor ya esta corriendo los datos nuevo_usuario y nueva_contraseña que fueron los definidos anteriormente se usaran para conectar
 
