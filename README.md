@@ -59,16 +59,24 @@
 - Puerto: 1521
 - Nombre del servicio: ORCL18
 
-# Modelo-Vista-Controlador
-> Fue implemetado en el proyecto
+# Modelo-Vista-Controlador(MVC)
+> es un patrón de arquitectura de software, que separa los datos y principalmente lo que es la lógica de negocio de una aplicación de su representación y el módulo encargado de gestionar los eventos y las comunicaciones.
+> [mas informacio.](https://es.wikipedia.org/wiki/Modelo%E2%80%93vista%E2%80%93controlador)
 
 > [Vista](https://drive.google.com/file/d/1necEE59KAS9suh62vpm8jaPFVtEAGDjo/view?usp=sharing)
 
 
-> [Modelo entidad relacion](https://drive.google.com/file/d/1xRNeSnZx5EV0IobMmrqyBDilnm2SJ0RG/view?usp=sharing)
+### [Modelo entidad relacion](https://drive.google.com/file/d/1xRNeSnZx5EV0IobMmrqyBDilnm2SJ0RG/view?usp=sharing)
+> **Tabla user:** Usada para almacenar la informacion de los datos del usuario que se registra
+> **Tabla publication:** Usada para almacenar los datos de las publicaciones y que estan asociados a un usuario.
+> **Tabla tag:** Encargada de almacenar los diferentes tags que se agrega a una o varias imagen de una publicacion.
+> **Tabla list_tag:** Encargada de almacenar la relacion que existe entre un publicacion y un tag.
+> **Tabla amigo:** Se encarga de almacenar la relacion de amistad entre 2 usuarios o para almacena una solicitud de amistad.
+> **Tabla chat:** Almacena la comunicacion entre 2 usuarios a traves de mensaje.
+> **Tabla message:** Se encarga de almacenar toda la comunicacion en un chat asi como tambien esta asociado a un usuario en especifico describiendo quien lo envio. 
 
-> [Versio de oracle instalada](https://drive.google.com/file/d/1N97qdpXuRVQkDuK-chbjdxk36KmldAhN/view?usp=sharing)
+### [Versio de oracle instalada](https://drive.google.com/file/d/1N97qdpXuRVQkDuK-chbjdxk36KmldAhN/view?usp=sharing)
 
-> [Version de angular instalada](https://drive.google.com/file/d/18DHE6NqfYa6FfPP6SGt5NreXLKNnWSQh/view?usp=sharing)
+### [Version de angular instalada](https://drive.google.com/file/d/18DHE6NqfYa6FfPP6SGt5NreXLKNnWSQh/view?usp=sharing)
 
-> [Version de nodejs y npm](https://drive.google.com/file/d/1ed78CreDInNZKWG_RYN8KkvcEnviPGxj/view?usp=sharing)
+### [Version de nodejs y npm](https://drive.google.com/file/d/1ed78CreDInNZKWG_RYN8KkvcEnviPGxj/view?usp=sharing)
