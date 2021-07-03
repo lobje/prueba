@@ -62,4 +62,13 @@
 # Modelo-Vista-Controlador
 > Fue implemetado en el proyecto
 
-![Modelo entidad relacion](https://drive.google.com/file/d/1xRNeSnZx5EV0IobMmrqyBDilnm2SJ0RG/view?usp=sharing)
+> [Vista](https://drive.google.com/file/d/1necEE59KAS9suh62vpm8jaPFVtEAGDjo/view?usp=sharing)
+
+
+> [Modelo entidad relacion](https://drive.google.com/file/d/1xRNeSnZx5EV0IobMmrqyBDilnm2SJ0RG/view?usp=sharing)
+
+> [Versio de oracle instalada](https://drive.google.com/file/d/1N97qdpXuRVQkDuK-chbjdxk36KmldAhN/view?usp=sharing)
+
+> [Version de angular instalada](https://drive.google.com/file/d/18DHE6NqfYa6FfPP6SGt5NreXLKNnWSQh/view?usp=sharing)
+
+> [Version de nodejs y npm](https://drive.google.com/file/d/1ed78CreDInNZKWG_RYN8KkvcEnviPGxj/view?usp=sharing)
